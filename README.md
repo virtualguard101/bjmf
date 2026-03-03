@@ -61,6 +61,12 @@ BJMF/
 pip install -r requirements.txt
 ```
 
+或使用 `uv` 同步依赖项:
+
+```bash
+uv sync
+```
+
 ## 配置指南
 
 ### 方法一：自动添加用户 (推荐)
